@@ -1,0 +1,7 @@
+---
+layout: single
+title:  "Novosti"
+date:   2020-01-26 16:32:48 +0100
+categories: novosti
+---
+Ovde moze da se napise novi clanak 
