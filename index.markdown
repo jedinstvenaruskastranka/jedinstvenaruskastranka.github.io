@@ -9,5 +9,5 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   actions:
     - label: "Pristupnica"
-      url: "https://unsplash.com"
+      url: "https://forms.gle/ZT5U6GucrnFhGfSe9"
 ---
