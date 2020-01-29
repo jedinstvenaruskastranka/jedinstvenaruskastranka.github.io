@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+locale: "sr-RS"
 title: JRS
 email: info@jrs.gov.rs
 description: >- # this means to ignore newlines until "baseurl:"
-  Jedinstvena ruska stranka.
+  Srbija u srcu - Rusija u duši.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jrs
@@ -29,6 +30,7 @@ facebook_username:  www.jrs.org.rs
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -48,7 +50,7 @@ logo: "/assets/images/logo.jpg"
 # their entries' file path in the `include:` list.
 #
 exclude:
-    - .idea/
+  - .idea/
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
