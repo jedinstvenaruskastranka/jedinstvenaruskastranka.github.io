@@ -1,9 +1,9 @@
 ---
 layout: single
-title: ПРОГРАМ ЈЕДИНСТВЕНЕ РУСКЕ СТРАНКЕ 
+title: Програм Јединствене Руске Странке 
 permalink: /program/
 ---
-Preuzeti dokument [ovde]({{ site.url }}/assets/documents/program.doc)
+Преузети документ [ovde]({{ site.url }}/assets/documents/program.doc)
 
 
 ## Садржај Програма: 

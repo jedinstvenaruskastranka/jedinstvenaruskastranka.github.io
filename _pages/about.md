@@ -1,7 +1,7 @@
 ---
 layout: single
-title: O Nama
+title: О Нама
 permalink: /o-nama/
 ---
 
-Ovde pisemo nesto o nama
+Овде би писали нешто о нама

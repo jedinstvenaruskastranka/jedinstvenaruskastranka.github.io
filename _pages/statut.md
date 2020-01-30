@@ -1,9 +1,9 @@
 ---
 layout: single
-title: СТАТУТ ЈЕДИНСТВЕНЕ РУСКЕ СТРАНКЕ 
+title: Статут Јединствене Руске Странке 
 permalink: /statut/
 ---
-Preuzeti dokument [ovde]({{ site.url }}/assets/documents/statut.doc)
+Преузети документ [ovde]({{ site.url }}/assets/documents/statut.doc)
 
  
 # I  ОПШТЕ ОДРЕДБЕ

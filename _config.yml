@@ -19,10 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 locale: "sr-RS"
-title: JRS
+title: ЈРС
 email: info@jrs.gov.rs
 description: >- # this means to ignore newlines until "baseurl:"
-  Srbija u srcu - Rusija u duši.
+  Србија у срцу, русија у души.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jrs
@@ -30,7 +30,7 @@ facebook_username:  www.jrs.org.rs
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
-#theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-sitemap

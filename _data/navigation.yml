@@ -1,9 +1,9 @@
 main:
-  - title: "Osnivački Akt"
+  - title: "Оснивачки Акт"
     url: /osnivacki-akt/
-  - title: "Program"
+  - title: "Програм"
     url: /program/
-  - title: "Statut"
+  - title: "Статут"
     url: /statut/
-  - title: "O Nama"
+  - title: "О Нама"
     url: /o-nama/

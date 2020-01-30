@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Osnivački Akt
+title: Оснивачки Акт
 permalink: /osnivacki-akt/
 ---
-Preuzeti dokument [ovde]({{ site.url }}/assets/documents/osnivacki-akt.doc)
+Преузети документ [ovde]({{ site.url }}/assets/documents/osnivacki-akt.doc)
 
 На основу члана 10. Закона о политичким странкама („Службени гласник Републике Србије, број 36/2009 и 61/2015-одлука УС),
 Оснивачка скупштина ЈЕДИНСТВЕНЕ РУСКЕ СТРАНКЕ, дана 23.01.2016. године, доноси
