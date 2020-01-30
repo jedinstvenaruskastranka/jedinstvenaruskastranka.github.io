@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jrs
-facebook_username:  www.jrs.org.rs
+facebook_username: "www.jrs.org.rs"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
@@ -38,7 +38,7 @@ plugins:
 
 include: ["_pages"]
 
-masthead_title: "JRS"
+masthead_title: "ЈРС"
 logo: "/assets/images/logo.jpg"
 
 # Exclude from processing.
