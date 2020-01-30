@@ -29,8 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: "www.jrs.org.rs"
 
 # Build settings
-# remote_theme: "mmistakes/minimal-mistakes@4.18.1"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.18.1"
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-sitemap
