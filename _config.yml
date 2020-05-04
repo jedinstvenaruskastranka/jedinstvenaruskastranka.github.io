@@ -36,7 +36,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-
+sitemap: true
 include: ["_pages"]
 
 masthead_title: "Јединствена Руска Странка"
