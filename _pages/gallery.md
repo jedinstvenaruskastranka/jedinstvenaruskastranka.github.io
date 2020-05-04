@@ -4,4 +4,4 @@ title: Галерија
 permalink: /galerija/
 ---
 
-{% include image-gallery.html folder="/gallery" %}
+{% include image-gallery.html folder="/assets/gallery" %}

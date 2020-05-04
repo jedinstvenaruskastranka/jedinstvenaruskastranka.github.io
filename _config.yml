@@ -20,11 +20,11 @@
 
 locale: "sr-RS"
 title: Јединствена Руска Странка
-email: info@jrs.gov.rs
+email: jedinstvena.ruska.stranka.rs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Србија у срцу, русија у души.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jrs.org.rs" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jrs
 facebook_username: "www.jrs.org.rs"
 
