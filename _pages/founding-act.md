@@ -3,7 +3,7 @@ layout: single
 title: Оснивачки Акт
 permalink: /osnivacki-akt/
 ---
-Преузети документ [ovde]({{ site.url }}/assets/documents/osnivacki-akt.doc)
+Преузети документ [ovde]({{ site.url }}/assets/documents/jrs-osnivacki-akt.doc)
 
 # ОСНИВАЧКИ АКТ
 
