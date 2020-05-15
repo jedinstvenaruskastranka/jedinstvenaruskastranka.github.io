@@ -22,7 +22,11 @@ locale: "sr-RS"
 title: Јединствена Руска Странка
 email: jedinstvena.ruska.stranka.rs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Србија у срцу, русија у души.
+  Ми смо Јединствена Руска странка (ЈРС).
+  Наши основни циљеви су: унапређење привредне и економске сарадње са Руском федерацијом и сарадња у области образовања.
+  Наш слоган ЈРС је: Србија у срцу - Русија у души !
+  Добродошли у малу, али честиту странку!
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jrs.org.rs" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jrs
