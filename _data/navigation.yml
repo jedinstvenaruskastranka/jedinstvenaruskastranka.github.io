@@ -7,3 +7,5 @@ main:
     url: /statut/
   - title: "Галерија"
     url: /galerija/
+  - title: "План"
+    url: /plan/
